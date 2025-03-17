@@ -4,6 +4,7 @@
 ! Version: 1.0
 ||devolution.net^
 ||devolutions.com^
+||portal.devolutions.com^
 ||app.devolutions.com^
 ||store.devolutions.net^
 ||cloud.devolutions.net^
