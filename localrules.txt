@@ -9,3 +9,4 @@
 ||store.devolutions.net^
 ||cloud.devolutions.net^
 ||crm.devolutions.net^
+||login.devolutions.com^
