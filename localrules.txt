@@ -1,0 +1,8 @@
+!
+! Title: Local DNS filter
+! Description: List of local filter rules
+! Version: 1.0
+||devolution.net^
+||store.devolutions.net
+||cloud.devolutions.net
+||crm.devolutions.net
